@@ -1,0 +1,108 @@
+1
+Samsung Galaxy Note 11
+xyz
+2
+Apple iPhone 13 Pro
+xyz
+3
+Google Pixel 4a 
+xyz
+4
+Hp
+xyz
+5
+Asus
+xyz
+6
+Lenovo
+xyz
+7
+Laptop Charger
+xyz
+8
+Mobile Charger
+xyz
+9
+Headphone
+xyz
+11
+Cottage Cheese
+XYZ
+12
+Milk
+XYZ
+13
+Butter
+XYz
+14
+Chips
+XYZ
+15
+Soft-Drinks
+XYZ
+16
+Chocolates
+XYZ
+17
+Body Lotions
+XYZ
+18
+Body oil
+XYZ
+19
+Body Powder
+XYZ
+21
+The Blue Umbrella - By Ruskin Bond
+XYZ
+22
+One  Indian Girl - By Chetan Bhagat
+XYZ
+23
+Death on the Nile - By Christie Agatha
+XYZ
+24
+Ignited minds- By A.P.J. Abdul Kalam
+XYZ
+25
+Three Thousand Stitches - By Sudha Murthy 
+XYZ
+26
+The Diary Of A Young Girl - By Anne Frank
+XYZ
+27
+stat1
+XYZ
+28
+stat2
+XYZ
+29
+stat3
+XYZ
+31
+T shirt
+xyz
+32
+Jeans
+xyz
+33 
+Shorts 
+xyz
+34
+Sarees
+xyz
+35
+Dress Material
+xyz
+36
+Salvars
+xyz
+37
+Briefcases
+xyz
+38
+Waistbags
+xyz
+39
+Travel bags
+xyz
